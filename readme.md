@@ -1,13 +1,7 @@
-# Three.js Journey
+<h1 align = "center"> PROJETO 3D COM CARRO CLASSIC SUPER TUNADO! </H1>
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
-
-``` bash
-# Install dependencies (only the first time)
-npm install
-
-# Run the local server at http://localhost:5173/
-npm run dev
-```
+<h1> Resumo </h1>
+<h2> O projeto foi criado graças as aulas de computação grafica do professor Danilo , onde aprendemos desde o basico como inserir uma imagem em um plano de fundo preto chegando até o ponto onde consseguiriamos criar uma cena importando e/ou criando objetos adiconando aos mesmos sombas, texturas e luzes dos mais variados tipos   </h2>

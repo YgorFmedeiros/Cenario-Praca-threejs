@@ -81,17 +81,6 @@ gltfLoader.load(
         }
         )
 
-pane.addButton({
-    title: 'Andar carrro'
-}).on("click", handleCarro)
-
-function handleCarro() {
-    if (carrAnimation.isActive()) {
-        carrAnimation.pause()
-    } else {
-        carrAnimation.resume()
-    }
-}
 document.addEventListener("keydown", (e) => {
     console.log(e.key)
     if (e.key === 'w') {
